@@ -24,7 +24,7 @@ ECHO --------------------------------------------------------------
 netsh interface ip set address "Local Area Connection" dhcp
 
 ECHO ==============================================================
-ECHO # RESET DNS TO DHCP Proces....
+ECHO # RESET DNS TO DHCP ....
 ECHO --------------------------------------------------------------
 netsh interface ip set dns "Local Area Connection" dhcp
 
