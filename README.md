@@ -24,7 +24,7 @@ How to easy to reset tcp/ip for win 7-10 from Batch File
  ECHO --------------------------------------------------------------  
  netsh interface ip set address "Local Area Connection" dhcp  
  ECHO ==============================================================  
- ECHO # RESET DNS TO DHCP Proces....  
+ ECHO # RESET DNS TO DHCP ....  
  ECHO --------------------------------------------------------------  
  netsh interface ip set dns "Local Area Connection" dhcp  
  ECHO ==============================================================  
