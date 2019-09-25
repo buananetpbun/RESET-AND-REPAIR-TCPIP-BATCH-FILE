@@ -4,18 +4,15 @@ TITLE WINDOWS 7-10 TCP/IP Reset and repair
 
 COLOR 1F
 ECHO.
-ECHO  ‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
-ECHO  ›                                               ›
-ECHO  › Windows 7-10 TCP/IP Reset and repair          ›
-ECHO  › By BuanaNET SECURE, Spet 2019                 ›
-ECHO  › fb.com/buananet.pangkalanbun                  ›
-ECHO  ›                                               ›
-ECHO. ﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂﬂ
+ECHO  √ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú√ú
+ECHO  √ù                                               √ù
+ECHO  √ù Windows 7-10 TCP/IP Reset and repair          √ù
+ECHO  √ù By BuanaNET SECURE, Spet 2019                 √ù
+ECHO  √ù fb.com/buananet.pangkalanbun                  √ù
+ECHO  √ù                                               √ù
+ECHO. √ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü√ü
 ECHO.
 ECHO.
-ECHO. Previous version saved and renamed to HOSTS.MVP
-
-
 ECHO ==============================================================
 ECHO # RESET IP ....
 ECHO --------------------------------------------------------------
