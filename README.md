@@ -15,7 +15,6 @@ How to easy to reset tcp/ip for win 7-10 from Batch File
  ECHO. ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß  
  ECHO.  
  ECHO.  
- ECHO. Previous version saved and renamed to HOSTS.MVP  
  ECHO ==============================================================  
  ECHO # RESET IP ....  
  ECHO --------------------------------------------------------------  
