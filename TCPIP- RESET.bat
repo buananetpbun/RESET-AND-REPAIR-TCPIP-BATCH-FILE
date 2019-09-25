@@ -19,7 +19,7 @@ ECHO --------------------------------------------------------------
 netsh int ip reset
 
 ECHO ==============================================================
-ECHO # RESET UP TO DHCP ....
+ECHO # RESET IP TO DHCP ....
 ECHO --------------------------------------------------------------
 netsh interface ip set address "Local Area Connection" dhcp
 
