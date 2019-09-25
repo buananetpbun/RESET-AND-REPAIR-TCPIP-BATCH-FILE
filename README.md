@@ -1,7 +1,7 @@
 # TCP-IP-RESET-AND-REAPAIR-BATCH-FILE
-Batch file easy to reset tcp/ip
+How to easy to reset tcp/ip for win 7-10 from Batch File
 
-@<pre  style="font-family:arial;font-size:12px;border:1px dashed #CCCCCC;width:99%;height:auto;overflow:auto;background:#f0f0f0;;background-image:URL(http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif);padding:0px;color:#000000;text-align:left;line-height:20px;"><code style="color:#000000;word-wrap:normal;"> @ECHO off  
+<pre  style="font-family:arial;font-size:12px;border:1px dashed #CCCCCC;width:99%;height:auto;overflow:auto;background:#f0f0f0;;background-image:URL(http://2.bp.blogspot.com/_z5ltvMQPaa8/SjJXr_U2YBI/AAAAAAAAAAM/46OqEP32CJ8/s320/codebg.gif);padding:0px;color:#000000;text-align:left;line-height:20px;"><code style="color:#000000;word-wrap:normal;"> @ECHO off  
  :: Window Attributes  
  TITLE WINDOWS 7-10 TCP/IP Reset and repair  
  COLOR 1F  
