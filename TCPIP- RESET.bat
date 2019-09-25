@@ -7,7 +7,7 @@ ECHO.
 ECHO  ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
 ECHO  Ý                                               Ý
 ECHO  Ý Windows 7-10 TCP/IP Reset and repair          Ý
-ECHO  Ý By BuanaNET SECURE, Spet 2019                 Ý
+ECHO  Ý By BuanaNET SECURE, Sept 2019                 Ý
 ECHO  Ý fb.com/buananet.pangkalanbun                  Ý
 ECHO  Ý                                               Ý
 ECHO. ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
