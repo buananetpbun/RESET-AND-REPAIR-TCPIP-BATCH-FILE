@@ -1,14 +1,13 @@
 @ECHO off
 :: Window Attributes
 TITLE WINDOWS 7-10 TCP/IP Reset and repair
-
 COLOR 1F
 ECHO.
 ECHO  ÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜ
 ECHO  Ý                                               Ý
 ECHO  Ý Windows 7-10 TCP/IP Reset and repair          Ý
 ECHO  Ý By BuanaNET SECURE, Sept 2019                 Ý
-ECHO  Ý fb.com/buananet.pangkalanbun                  Ý
+ECHO  Ý fb.com/buananet.pbun                          Ý
 ECHO  Ý                                               Ý
 ECHO. ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
 ECHO.
