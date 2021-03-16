@@ -1,6 +1,8 @@
 # TCP IP RESET AND REAPAIR BATCH FILE
 How to easy to reset tcp/ip for win 7-10 from Batch File
+
 ![image](https://user-images.githubusercontent.com/42666125/111257925-94fb4b80-864e-11eb-8955-226e43e2bae1.png)
+
 <pre>
  @ECHO off  
  :: Window Attributes  
