@@ -1,4 +1,4 @@
-# TCP-IP-RESET-AND-REAPAIR-BATCH-FILE
+# TCP IP RESET AND REAPAIR BATCH FILE
 How to easy to reset tcp/ip for win 7-10 from Batch File
 
 <pre>
